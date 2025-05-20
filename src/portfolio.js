@@ -22,23 +22,46 @@ const illustration = {
 const coachingOutcomes = [
   {
     title: "Coached PO on Product Discovery Techniques",
-    description: "Guided Product Owners in applying techniques like Impact Mapping, Story Mapping, and Double Diamond to clarify product goals and user needs before entering development.",
-    techStack: ["Impact Mapping", "User Story Mapping", "Design Thinking", "Product Goal Definition"]
+    description:
+      "Guided Product Owners in applying techniques like Impact Mapping, Story Mapping, and Double Diamond to clarify product goals and user needs before entering development.",
+    techStack: [
+      "Impact Mapping",
+      "User Story Mapping",
+      "Design Thinking",
+      "Product Goal Definition"
+    ]
   },
   {
     title: "Facilitated Discovery Workshops",
-    description: "Designed and facilitated workshops with cross-functional teams and stakeholders to uncover user problems and align on impactful solutions.",
-    techStack: ["Facilitation", "Problem Framing", "User Journey", "Prioritization"]
+    description:
+      "Designed and facilitated workshops with cross-functional teams and stakeholders to uncover user problems and align on impactful solutions.",
+    techStack: [
+      "Facilitation",
+      "Problem Framing",
+      "User Journey",
+      "Prioritization"
+    ]
   },
   {
     title: "Designed PO101 Training – Focus on Discovery",
-    description: "Created an internal training program for Product Owners emphasizing early-stage discovery practices, including identifying valuable outcomes over features.",
-    techStack: ["Training from the Back of the Room", "PO Coaching", "Outcome Thinking", "Agile Facilitation"]
+    description:
+      "Created an internal training program for Product Owners emphasizing early-stage discovery practices, including identifying valuable outcomes over features.",
+    techStack: [
+      "Training from the Back of the Room",
+      "PO Coaching",
+      "Outcome Thinking",
+      "Agile Facilitation"
+    ]
   },
   {
     title: "Scaled Scrum for 7 Teams using LeSS",
     description: "Coached 7 cross-functional teams to adopt LeSS framework",
-    techStack: ["LeSS", "System Modeling", "Agile Coaching", "Product Definition"]
+    techStack: [
+      "LeSS",
+      "System Modeling",
+      "Agile Coaching",
+      "Product Definition"
+    ]
   }
 ];
 
@@ -64,7 +87,6 @@ const socialMediaLinks = {
 
 // Skills Section
 
-
 const skillsSection = {
   title: "What I do",
   subTitle:
@@ -74,7 +96,7 @@ const skillsSection = {
     "⚡ Coaching Product Owners on outcome-driven approaches and backlog refinement",
     "⚡ Conducting Agile and LeSS coaching sessions to enhance team collaboration",
     "⚡ Developing applications with React, Angular, and .NET Core",
-    "⚡ Implementing unit testing and code coverage strategies",
+    "⚡ Implementing unit testing and code coverage strategies"
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
@@ -123,143 +145,143 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "Angular",
-      fontAwesomeClassname: "fab fa-angular",
+      fontAwesomeClassname: "fab fa-angular"
     },
     {
       skillName: "Git",
-      fontAwesomeClassname: "fab fa-git",
+      fontAwesomeClassname: "fab fa-git"
     },
     {
       skillName: "Android",
-      fontAwesomeClassname: "fab fa-android",
+      fontAwesomeClassname: "fab fa-android"
     },
     {
       skillName: "Bootstrap",
-      fontAwesomeClassname: "fab fa-bootstrap",
+      fontAwesomeClassname: "fab fa-bootstrap"
     },
     {
       skillName: "PHP",
-      fontAwesomeClassname: "fab fa-php",
+      fontAwesomeClassname: "fab fa-php"
     },
     {
       skillName: "JIRA",
-      fontAwesomeClassname: "fab fa-jira",
+      fontAwesomeClassname: "fab fa-jira"
     },
     {
       skillName: "FIGMA",
-      fontAwesomeClassname: "fab fa-figma",
+      fontAwesomeClassname: "fab fa-figma"
     },
     {
       skillName: "Github",
-      fontAwesomeClassname: "fab fa-github",
+      fontAwesomeClassname: "fab fa-github"
     },
     {
       skillName: "Jenkins",
-      fontAwesomeClassname: "fab fa-jenkins",
+      fontAwesomeClassname: "fab fa-jenkins"
     },
     {
       skillName: "Laravel",
-      fontAwesomeClassname: "fab fa-laravel",
+      fontAwesomeClassname: "fab fa-laravel"
     },
     {
       skillName: "Sketch",
-      fontAwesomeClassname: "fab fa-sketch",
+      fontAwesomeClassname: "fab fa-sketch"
     },
     {
       skillName: "Slack",
-      fontAwesomeClassname: "fab fa-slack",
+      fontAwesomeClassname: "fab fa-slack"
     },
     {
       skillName: "Sourcetree",
-      fontAwesomeClassname: "fab fa-sourcetree",
+      fontAwesomeClassname: "fab fa-sourcetree"
     },
     {
       skillName: "Stack Overflow",
-      fontAwesomeClassname: "fab fa-stack-overflow",
+      fontAwesomeClassname: "fab fa-stack-overflow"
     },
     {
       skillName: "Wordpress",
-      fontAwesomeClassname: "fab fa-wordpress",
+      fontAwesomeClassname: "fab fa-wordpress"
     },
     {
       skillName: "Dropbox",
-      fontAwesomeClassname: "fab fa-dropbox",
+      fontAwesomeClassname: "fab fa-dropbox"
     },
     {
       skillName: "Medium",
-      fontAwesomeClassname: "fab fa-medium",
+      fontAwesomeClassname: "fab fa-medium"
     },
     {
       skillName: "Atlassian",
-      fontAwesomeClassname: "fab fa-atlassian",
+      fontAwesomeClassname: "fab fa-atlassian"
     },
     {
       skillName: "Vue",
-      fontAwesomeClassname: "fab fa-vuejs",
+      fontAwesomeClassname: "fab fa-vuejs"
     },
     {
       skillName: "Trello",
-      fontAwesomeClassname: "fab fa-trello",
+      fontAwesomeClassname: "fab fa-trello"
     },
     {
       skillName: "Rust",
-      fontAwesomeClassname: "fab fa-rust",
+      fontAwesomeClassname: "fab fa-rust"
     },
     {
       skillName: "Octopus Deploy",
-      fontAwesomeClassname: "fab fa-octopus-deploy",
+      fontAwesomeClassname: "fab fa-octopus-deploy"
     },
     {
       skillName: "Flutter",
-      fontAwesomeClassname: "fab fa-flutter",
+      fontAwesomeClassname: "fab fa-flutter"
     },
     {
       skillName: "Bitbucket",
-      fontAwesomeClassname: "fab fa-bitbucket",
+      fontAwesomeClassname: "fab fa-bitbucket"
     },
     {
       skillName: "Swagger",
-      fontAwesomeClassname: "logo:swagger",
+      fontAwesomeClassname: "logo:swagger"
     },
     {
       skillName: "TypeScript",
-      fontAwesomeClassname: "logo:TypeScripts",
+      fontAwesomeClassname: "logo:TypeScripts"
     },
     {
       skillName: "Selenium",
-      fontAwesomeClassname: "logo:selenium",
+      fontAwesomeClassname: "logo:selenium"
     },
     {
       skillName: "Ruby on Rails",
-      fontAwesomeClassname: "logos:rails",
+      fontAwesomeClassname: "logos:rails"
     },
     {
       skillName: "Golang",
-      fontAwesomeClassname: "logo:golang",
+      fontAwesomeClassname: "logo:golang"
     },
     {
       skillName: "SonarQube",
-      fontAwesomeClassname: "logos:SonarQube",
+      fontAwesomeClassname: "logos:SonarQube"
     },
     {
       skillName: ".NET Core",
-      fontAwesomeClassname: "logos:dotnet",
+      fontAwesomeClassname: "logos:dotnet"
     },
     {
       skillName: "Jest",
-      fontAwesomeClassname: "logos:jest",
+      fontAwesomeClassname: "logos:jest"
     },
     {
       skillName: "Cucumber",
-      fontAwesomeClassname: "logos:cucumber",
+      fontAwesomeClassname: "logos:cucumber"
     },
     {
       skillName: "Cypress",
-      fontAwesomeClassname: "logos:cypress",
+      fontAwesomeClassname: "logos:cypress"
     },
     {
       skillName: "Playwright",
-      fontAwesomeClassname: "logos:playwright",
+      fontAwesomeClassname: "logos:playwright"
     }
   ],
   display: true // Set false to hide this section, defaults to true
@@ -275,17 +297,18 @@ const educationInfo = {
       subHeader: "Bachelor of Engineering Program in Computer Engineering",
       duration: "2011 - 2015",
       // desc: "Activities and societies: Coding Club, Agile Enthusiasts", // รอแก้ไข
-      grade: "GPA: 3.69",
+      grade: "GPA: 3.69"
       // descBullets: [ // รอแก้ไข
       //   "Developed a keen interest in software development and agile methodologies.",
       // ],
-    },
+    }
   ]
 };
 
 // Your top 3 proficient stacks/tech experience
 
-const techStack = { // รอแก้ไข
+const techStack = {
+  // รอแก้ไข
   viewSkillBars: true, //Set it to true to show Proficiency Section
   experience: [
     {
@@ -306,34 +329,37 @@ const techStack = { // รอแก้ไข
 
 // Work experience section
 
-const workExperiences = { // รอแก้ไข
+const workExperiences = {
+  // รอแก้ไข
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
       role: "Agile/LeSS Coach",
       company: "ODDS TEAM",
-      companylogo: "path/to/companylogo.png", 
+      companylogo: "path/to/companylogo.png",
       date: "Jan 2018 – Present",
       desc: "Coaching multiple teams and Product Owners in adopting Agile and LeSS frameworks to enhance product discovery and delivery processes.",
       descBullets: [
         "Facilitated workshops on Impact Mapping and Story Mapping.",
-        "Conducted training sessions for Product Owners focusing on outcome-driven development.",
-      ],
-    },
+        "Conducted training sessions for Product Owners focusing on outcome-driven development."
+      ]
+    }
   ]
 };
 
 /* Your Open Source Section to View Your Github Pinned Projects
 To know how to get github key look at readme.md */
 
-const openSource = { // รอแก้ไข
+const openSource = {
+  // รอแก้ไข
   showGithubProfile: "true", // Set true or false to show Contact profile using Github, defaults to true
   display: true // Set false to hide this section, defaults to true
 };
 
 // Some big projects you have worked on
 
-const bigProjects = { // รอแก้ไข
+const bigProjects = {
+  // รอแก้ไข
   title: "Big Projects",
   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
   projects: [
@@ -367,7 +393,8 @@ const bigProjects = { // รอแก้ไข
 // Achievement Section
 // Include certificates, talks etc
 
-const achievementSection = { // รอแก้ไข
+const achievementSection = {
+  // รอแก้ไข
   title: emoji("Achievements And Certifications 🏆 "),
   subtitle:
     "Achievements, Certifications, Award Letters and Some Cool Stuff that I have done !",
@@ -375,8 +402,7 @@ const achievementSection = { // รอแก้ไข
   achievementsCards: [
     {
       title: "Certified LeSS Practitioner",
-      subtitle:
-        "Principles to Practices",
+      subtitle: "Principles to Practices",
       image: require("./assets/logo/CLP-logo.png"),
       footerLink: [
         {
@@ -411,7 +437,8 @@ const achievementSection = { // รอแก้ไข
 
 // Blogs Section
 
-const blogSection = { // รอแก้ไข
+const blogSection = {
+  // รอแก้ไข
   title: "Blogs",
   subtitle:
     "With Love for Developing cool stuff, I love to write and teach others what I have learnt.",
@@ -435,7 +462,8 @@ const blogSection = { // รอแก้ไข
 
 // Talks Sections
 
-const talkSection = { // รอแก้ไข
+const talkSection = {
+  // รอแก้ไข
   title: "TALKS",
   subtitle: emoji(
     "I LOVE TO SHARE MY LIMITED KNOWLEDGE AND GET A SPEAKER BADGE 😅"
@@ -454,7 +482,8 @@ const talkSection = { // รอแก้ไข
 
 // Podcast Section
 
-const podcastSection = { // รอแก้ไข
+const podcastSection = {
+  // รอแก้ไข
   title: emoji("Podcast 🎙️"),
   subtitle: "I LOVE TO TALK ABOUT MYSELF AND TECHNOLOGY",
 
@@ -466,7 +495,8 @@ const podcastSection = { // รอแก้ไข
 };
 
 // Resume Section
-const resumeSection = { // รอแก้ไข
+const resumeSection = {
+  // รอแก้ไข
   title: "Resume",
   subtitle: "Feel free to download my resume",
 
@@ -474,17 +504,18 @@ const resumeSection = { // รอแก้ไข
   display: false // Set false to hide this section, defaults to true
 };
 
-const contactInfo = { // รอแก้ไข
+const contactInfo = {
+  // รอแก้ไข
   title: emoji("Contact Me ☎️"),
-  subtitle:
-    "Feel free to reach out for collaboration or just a friendly chat.",
+  subtitle: "Feel free to reach out for collaboration or just a friendly chat.",
   number: "+66-635161568",
   email_address: "nitcharee.kwang@gmail.com"
 };
 
 // Twitter Section
 
-const twitterDetails = { // รอแก้ไข
+const twitterDetails = {
+  // รอแก้ไข
   userName: "twitter", //Replace "twitter" with your twitter username without @
   display: false // Set true to display this section, defaults to false
 };
